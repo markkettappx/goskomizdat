@@ -1,3 +1,3 @@
 marx_18_brumario.pdf
 marx_capital.pdf
-marx_manifiesto_comunitsa.pdf
+marx_manifiesto_comunista.pdf
